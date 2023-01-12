@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Sivot
+        psr4_prefix: Sivot
+        src_path: app
